@@ -1,1 +1,1 @@
-# microgrid-resilience
+# Microgrid resilience
