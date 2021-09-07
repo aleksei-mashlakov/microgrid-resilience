@@ -1,0 +1,21 @@
+name: resilience
+channels:
+  - conda-forge
+dependencies:
+  - pandas>=1.0.5
+  - numpy>=1.19.1
+  - scipy>=1.5.2
+  - nbconvert>=5.6.1
+  - nbformat>=4.4.0
+  - ipywidgets
+  - pip>=20.2.3
+  - pip:
+    - hyperopt
+    - matplotlib
+    - holidays
+    - lightgbm
+    - cvxpy==1.0.17
+    - cvxstoc
+    - cvxpower
+    - dccp
+    - multiprocessing
