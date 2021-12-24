@@ -3,13 +3,13 @@
 The codes and partly data provided here are used for the experiment simulations described in:
 
 ```
-@article{2022resilience,
+@article{gutierrez2021weather,
   title={Weather-Driven Predictive Control of a Battery Storage for Improved Microgrid Resilience},
-  author={Daniel Gutierrez-Rojas, Aleksei Mashlakov, Christina Brester, Harri Niska, Mikko Kolehmainen,Arun Narayanan, Samuli Honkapuro, and Pedro H. J. Nardelli},
+  author={Gutierrez-Rojas, Daniel and Mashlakov, Aleksei and Brester, Christina and Niska, Harri and Kolehmainen, Mikko and Narayanan, Arun and Honkapuro, Samuli and Nardelli, Pedro HJ},
   journal={IEEE Access},
   volume={9},
   pages={163108-163121},
-  year={2022}
+  year={2021}
   }
 ```
 
